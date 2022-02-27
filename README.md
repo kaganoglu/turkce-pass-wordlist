@@ -1,0 +1,1 @@
+# turkce-pass-wordlist
